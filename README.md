@@ -3,7 +3,7 @@ Answer of final exam of the Python for genomics course on Coursea
 
  
  - This was a final exam in (Python for genomics) at Coursera which is a course 
-    part of Genome Data Science Specializrion 
+    part of Genome Data Science Specializaion 
     - asnwering multiple questions about FASTA file containg number of sequences like : 
         - How many recoreds ? 
         - what is the longest recored ? 
